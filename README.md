@@ -12,4 +12,4 @@ Funkcja "resetGame()" resetuje grę po przyciśnieniu przycisku reset.
 
 Funkcja "showCredits()" pokazuje tego kto pisał kod.
 
-Funkcja "drawWinningLine()" po wygraniu jednego z grazy tworzy lienie która wykreśla wygraną kombinację.
+Funkcja "drawWinningLine()" po wygraniu jednego z grazy tworzy linie która wykreśla wygraną kombinację.
